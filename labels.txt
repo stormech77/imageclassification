@@ -1,0 +1,3 @@
+0:viral_pneumonia
+1:bacterial_pneumonia
+2:normal
